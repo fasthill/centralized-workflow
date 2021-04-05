@@ -2,3 +2,4 @@
 collaborator 등록
 collab 들이 clone후 주관자가 첫번째 수정 등록
 by 2nd collab
+리더가 수정
